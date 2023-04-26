@@ -1,0 +1,1 @@
+document.body.querySelector('#a').addEventListener('click', function(e){console.log(this,e)})
